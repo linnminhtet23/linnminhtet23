@@ -13,6 +13,9 @@
 
 - 📫 How to reach me **linnminhtet9623@gmail.com**
 
+![Linn Min Htet's GitHub stats](https://github-readme-stats.vercel.app/api?username=linnminhtet23&show_icons=true&theme=tokyonight)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/linnminhtet2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="linnminhtet2" height="30" width="40" /></a>
