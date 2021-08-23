@@ -1,4 +1,4 @@
-![Linn Min Htet](https://github.com/linnminhtet23/linnminhtet23/blob/main/profile.jpg width=48 height=48)
+![Linn Min Htet](https://github.com/linnminhtet23/linnminhtet23/blob/main/profile.jpg)
 
 <h1 align="center">Hi 👋, I'm Linn Min Htet</h1>
 <h3 align="center">Web and mobile developer</h3>
