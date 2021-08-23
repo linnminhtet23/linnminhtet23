@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Linn Min Htet</h1>
 <h3 align="center">Web and mobile developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linnminhtet23" alt="linnminhtet23" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/linnminhtet2" target="blank"><img src="https://img.shields.io/twitter/follow/linnminhtet2?logo=twitter&style=for-the-badge" alt="linnminhtet2" /></a> </p>
 
 - 🔭 I’m currently working on **movie review app**
