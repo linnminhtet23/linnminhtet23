@@ -43,13 +43,15 @@
 <br>
   <br>
   
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=linnminhtet23&theme=tokyonight)](https://git.io/praveenscience)
+<!-- [![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=linnminhtet23&theme=tokyonight)](https://git.io/praveenscience) -->
+  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=linnminhtet23&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=linnminhtet23&show_icons=true&theme=tokyonight) | ![Linn Min Htet's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=linnminhtet23&theme=tokyonight) |
+
+| ![Linn Min Htet's github stats](https://github-readme-stats.vercel.app/api?username=linnminhtet23&show_icons=true&theme=react) | ![Linn Min Htet's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=linnminhtet23&theme=react) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linnminhtet23&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=linnminhtet23&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linnminhtet23&theme=react) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=linnminhtet23&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=react)
 
 
 <br>
