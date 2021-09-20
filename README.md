@@ -45,7 +45,7 @@
   <br>
   
 <!-- [![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=linnminhtet23&theme=tokyonight)](https://git.io/praveenscience) -->
-  [![Linn Min Htet's github activity graph](https://activity-graph.herokuapp.com/graph?username=linnminhtet23&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Linn Min Htet's github activity graph](https://activity-graph.herokuapp.com/graph?username=linnminhtet23&theme=react-dark)](https://github.com/linnminhtet23/github-readme-activity-graph)
 
 
 | ![Linn Min Htet's github stats](https://github-readme-stats.vercel.app/api?username=linnminhtet23&show_icons=true&theme=react) | ![Linn Min Htet's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=linnminhtet23&theme=react) |
