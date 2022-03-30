@@ -15,7 +15,7 @@
 <img width="45%" align="right" alt="Github" src="https://github.com/linnminhtet23/linnminhtet23/blob/main/me.gif?raw=true" />
 
 
-- 🔭 I’m currently working on Movie Review app
+- 🔭 I’m currently focusing on Mongodb and React.js
 
 - 🌱 I’m currently learning Javascript, Node.js & Flutter 
 
