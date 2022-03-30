@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently focusing on Mongodb and React.js
 
-- 🌱 I’m currently learning Javascript, Node.js & Flutter 
+- 🌱 I’m from final year IT Engineering student from Mandalay Myanmar
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
