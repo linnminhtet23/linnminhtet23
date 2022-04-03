@@ -15,7 +15,7 @@
 <img width="45%" align="right" alt="Github" src="https://github.com/linnminhtet23/linnminhtet23/blob/main/me.gif?raw=true" />
 
 
-- 🔭 I’m currently focusing on Javascript Full Stack developmen
+- 🔭 I’m currently focusing on Javascript Full Stack development
 
 - 🌱 I’m from final year IT Engineering student from Mandalay Myanmar
 
