@@ -41,18 +41,4 @@
 <a href = '#'  target='_blank'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/linnminhtet23'  target='_blank'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
-<br>
-<br>
-  <br>
-  
-<!-- [![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=linnminhtet23&theme=tokyonight)](https://git.io/praveenscience) -->
-  [![Linn Min Htet's github activity graph](https://activity-graph.herokuapp.com/graph?username=linnminhtet23&theme=react-dark)](https://github.com/linnminhtet23/github-readme-activity-graph)
 
-
-| ![Linn Min Htet's github stats](https://github-readme-stats.vercel.app/api?username=linnminhtet23&show_icons=true&theme=react) | ![Linn Min Htet's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=linnminhtet23&theme=react) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linnminhtet23&theme=react) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=linnminhtet23&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) |
-
-
-
-<br>
