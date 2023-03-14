@@ -14,14 +14,16 @@
 
 
 
-- 🔭 I’m currently focusing on Javascript Full Stack development
+- 🔭 I’m a full stack developer based in Mandalay Myanmar
 
 - 🌱 I’m from final year IT Engineering student from Mandalay Myanmar
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
  - 💬 This is how you reach me <a href="https://www.facebook.com/linnmin.htet23"> @henry_lmh </a>
-
+ 
+ Here are some of my portfolio
+ https://play.google.com/store/apps/details?id=com.rcs.m9_logistics
 
   
 
