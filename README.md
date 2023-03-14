@@ -16,7 +16,7 @@
 
 - 🔭 I’m a full stack developer based in Mandalay Myanmar
 
-- 🌱 I’m from final year IT Engineering student from Mandalay Myanmar
+- 🌱 I’m a final year IT Engineering student from Mandalay Myanmar
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
